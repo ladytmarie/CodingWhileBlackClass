@@ -1,0 +1,3 @@
+git status
+git commit -m "3rd commit with a random commit - Pickles"
+get push -u origin master
